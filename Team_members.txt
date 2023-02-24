@@ -22,3 +22,5 @@ Today is a good day
 
 Let's get the money group 39
 We shall get there
+Let us all endeavor to practice this everyday
+With practice, we will become the best DevOps engineers the world has ever seen
