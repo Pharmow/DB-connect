@@ -1,0 +1,16 @@
+hour = input("Please Enter your hours: ")
+rate = input("Please enter your pay rate: ")
+fh = float(hour)
+fr = float(rate)
+oh = fh - 40
+orp = 40 * fr
+op = oh * 1.5 * fr
+pr = fh * fr
+
+
+if fh > 40.0 :
+    print ("Overtime")
+    print ("Your pay is:", orp + op)
+else :
+    print ("Regular")
+    print ("Your pay is: ", pr)
